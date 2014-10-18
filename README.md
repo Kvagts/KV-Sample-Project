@@ -1,4 +1,4 @@
-hello-world
+Description of sample project 
 ===========
 
 Sample Repository for learning
