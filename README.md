@@ -8,6 +8,6 @@ This is how to learn the features of a GifHub repository.
 * Setting up a repository
 * Writing a README file
 * Using Branches
-  ** Tracking Changes
-  ** Implementing suggestions
+* Tracking Changes
+* Implementing suggestions
 Go to https://github.com
